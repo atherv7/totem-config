@@ -193,5 +193,5 @@ label= "SYM"                               ;
 /*                                         &trans      &kp LC(F12) &kp LC(F11)     &trans      &trans      &trans       */
 /*                         >; */
 /*                 }; */
-/*         }; */
+        };
 };
